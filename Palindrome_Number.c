@@ -3,7 +3,7 @@ int main(){
     int tc,j;
     scanf("%d",&tc);
     for(j=1;j<=tc;j++){
-        int n,t,r=0,p;
+        int n,p,t,r=0;
         scanf("%d",&n);
         p=n;
         while(n!=0){
