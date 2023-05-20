@@ -7,10 +7,10 @@ int main(){
         sum=sum+i;
         }
     }
-if(sum>n){
-    printf("True");
-}
-else{
-    printf("False");
-}
+    if(sum>n){
+        printf("True");
+    }
+    else{
+        printf("False");
+    }
 }
