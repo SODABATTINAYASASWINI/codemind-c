@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int n,r=0,t;
+    int n,t,r=0;
     scanf("%d",&n);
     while(n!=0){
         t=n%10;
